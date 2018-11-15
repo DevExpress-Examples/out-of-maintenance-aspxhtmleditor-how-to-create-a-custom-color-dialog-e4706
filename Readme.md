@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [bootstrap-colorpicker.css](./CS/DXWebApplication1/css/bootstrap-colorpicker.css)
+* [bootstrap-colorpicker.js](./CS/DXWebApplication1/js/bootstrap-colorpicker.js) (VB: [bootstrap-colorpicker.js](./VB/DXWebApplication1/js/bootstrap-colorpicker.js))
+* **[WebForm1.aspx](./CS/DXWebApplication1/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/DXWebApplication1/WebForm1.aspx))**
+<!-- default file list end -->
 # ASPxHtmlEditor - How to create a custom color dialog
 
 
