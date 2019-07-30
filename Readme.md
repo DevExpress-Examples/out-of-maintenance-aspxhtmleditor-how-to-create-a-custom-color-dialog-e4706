@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # ASPxHtmlEditor - How to create a custom color dialog
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4706)**
+**[[Run Online]](https://codecentral.devexpress.com/e4706/)**
 <!-- run online end -->
 
 
