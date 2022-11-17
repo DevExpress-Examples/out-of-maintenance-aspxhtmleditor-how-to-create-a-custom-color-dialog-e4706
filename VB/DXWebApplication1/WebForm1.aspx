@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="WebForm1.aspx.vb" Inherits="DXWebApplication1.WebForm1" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeBehind="WebForm1.aspx.vb" Inherits="DXWebApplication1.WebForm1" %>
 
 <!DOCTYPE html>
 
